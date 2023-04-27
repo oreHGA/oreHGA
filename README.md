@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ore!
 - 👀 I’m interested in all things related to the brain, how it works & behavior
+- ⚙️  Maintainer for [eeg-notebooks](https://github.com/NeuroTechX/eeg-notebooks)
 - 🌱 I’m currently spending all my creative energy exploring this with [Neurofusion](https://neurofusion.substack.com)
 - 📫 If you want to join me on this quest message me on - ore@usefusion.app
 - 🌍 You can learn more about me on [oreogundipe.dev](https://oreogundipe.dev)
