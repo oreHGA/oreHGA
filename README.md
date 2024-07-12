@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ore!
-- 👀 I’m started an open source startup [NeuroFusion](https://usefusion.ai/) to collect changes in sleep, health vitals, screen time, and behaviour to inform daily decision making
+- 👀 I'm building [NeuroFusion](https://usefusion.ai) to predict the onset of cognitive decline & symptopms for mental illness. We [work in the open](https://github.com/NEUROFUSIONInc/fusion) and would love to have you join [us](https://discord.gg/hzt6cAtwGE)
 - ⚙️  I also maintain [EEG-ExPy]( https://github.com/NeuroTechX/eeg-notebooks) - a python project that allows you run neuroscience experiments from home using consumer EEG headsets
 - 📫 If you'd like to chat? ore@usefusion.app
 - 🌍 My writing & activities [oreogundipe.dev](https://oreogundipe.dev)
